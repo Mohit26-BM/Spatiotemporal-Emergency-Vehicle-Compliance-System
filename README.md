@@ -2,7 +2,14 @@
 
 An AI-powered traffic enforcement pipeline that detects emergency vehicles, tracks all surrounding traffic, and flags vehicles that fail to yield — using spatiotemporal rules to eliminate false positives. Validated on real overhead and dashcam footage.
 
----
+
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/YourUsername/Emergency-Vehicle-Compliance-System)
+![Forks](https://img.shields.io/github/forks/YourUsername/Emergency-Vehicle-Compliance-System)
+![Issues](https://img.shields.io/github/issues/YourUsername/Emergency-Vehicle-Compliance-System)
+![Last Commit](https://img.shields.io/github/last-commit/YourUsername/Emergency-Vehicle-Compliance-System)
 
 ## How It Works
 
