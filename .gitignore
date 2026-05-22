@@ -23,9 +23,7 @@ __pycache__/
 outputs/yolo_runs/
 outputs/models/
 
-# ── Large Video Files ─────────────────────────────────────────────
-outputs/videos/
-*.mp4
+# ── Large Video Files (kept — all under 30 MB) ───────────────────
 *.avi
 *.mov
 
