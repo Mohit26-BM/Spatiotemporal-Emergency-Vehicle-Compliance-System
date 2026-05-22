@@ -1,0 +1,49 @@
+# ── Virtual Environment ───────────────────────────────────────────
+Lib/
+Scripts/
+share/
+etc/
+pyvenv.cfg
+.venv/
+venv/
+env/
+
+# ── Python Cache ──────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Model Weights (too large for GitHub) ─────────────────────────
+*.pt
+*.pth
+*.weights
+*.onnx
+outputs/yolo_runs/
+outputs/models/
+
+# ── Large Video Files ─────────────────────────────────────────────
+outputs/videos/
+*.mp4
+*.avi
+*.mov
+
+# ── Generated / Runtime Outputs ───────────────────────────────────
+outputs/database/
+outputs/evidence_frames/
+*.db
+*.sqlite
+
+# ── Claude Code Internal ──────────────────────────────────────────
+.claude/
+
+# ── OS / Editor ───────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
