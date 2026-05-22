@@ -1,6 +1,6 @@
 # Spatiotemporal Emergency Vehicle Compliance System (SCAS)
 
-An AI-powered traffic enforcement pipeline that detects emergency vehicles, tracks all surrounding traffic, and flags vehicles that fail to yield — using spatiotemporal rules to eliminate false positives. Validated on real overhead and dashcam footage.
+Traffic enforcement pipeline that detects emergency vehicles, tracks all surrounding traffic, and flags vehicles that fail to yield — using spatiotemporal rules to eliminate false positives. Validated on real overhead and dashcam footage.
 
 
 ## How It Works
